@@ -1,5 +1,5 @@
-# GregP-Presentation
-Drone Pilot as a Service Masters Project Defense
+# Drone Pilot as a Service Masters Project Defense
+Announcement
 
 
 -------- Forwarded Message --------
