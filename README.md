@@ -28,10 +28,10 @@ To: grads@cs.ucsb.edu, faculty@cs.ucsb.edu, lecturers@cs.ucsb.edu, research@list
   Everyone welcome!
 
   -- 
-  Jillian Title
-  Graduate Advisor
-  Department of Computer Science
-  University of California Santa Barbara
-  Harold Frank Hall 2104
-  Santa Barbara, CA 93106-5110
-  (805) 893-4322
+Jillian Title
+Graduate Advisor
+Department of Computer Science
+University of California Santa Barbara
+Harold Frank Hall 2104
+Santa Barbara, CA 93106-5110
+(805) 893-4322
