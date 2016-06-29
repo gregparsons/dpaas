@@ -3,10 +3,10 @@ Announcement
 
 
 -------- Forwarded Message --------
-Subject: [grads] MS Project Defense - Gregory Parsons - 5/27/16
-Date: Fri, 20 May 2016 13:05:24 -0700
-From: Jillian Title <jillian.title@cs.ucsb.edu>
-To: grads@cs.ucsb.edu, faculty@cs.ucsb.edu, lecturers@cs.ucsb.edu, research@lists.cs.ucsb.edu, colloquia@lists.cs.ucsb.edu
+Subject: [grads] MS Project Defense - Gregory Parsons - 5/27/16  
+Date: Fri, 20 May 2016 13:05:24 -0700  
+From: Jillian Title <jillian.title@cs.ucsb.edu>  
+To: grads@cs.ucsb.edu, faculty@cs.ucsb.edu, lecturers@cs.ucsb.edu, research@lists.cs.ucsb.edu, colloquia@lists.cs.ucsb.edu  
   
   MS Project Defense
   *Gregory Parsons*
@@ -28,10 +28,10 @@ To: grads@cs.ucsb.edu, faculty@cs.ucsb.edu, lecturers@cs.ucsb.edu, research@list
   Everyone welcome!
 
   -- 
-Jillian Title
-Graduate Advisor
-Department of Computer Science
-University of California Santa Barbara
-Harold Frank Hall 2104
-Santa Barbara, CA 93106-5110
-(805) 893-4322
+Jillian Title  
+Graduate Advisor  
+Department of Computer Science  
+University of California Santa Barbara  
+Harold Frank Hall 2104  
+Santa Barbara, CA 93106-5110  
+(805) 893-4322  
